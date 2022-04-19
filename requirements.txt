@@ -1,0 +1,6 @@
+flask
+psycopg2-binary
+sqlalchemy
+pyyaml
+flask-sqlalchemy
+flask_httpauth

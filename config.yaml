@@ -1,0 +1,6 @@
+postgresql:
+  host: 35.193.53.27
+  port: 5432
+  user: digitalskola
+  password: D6GhCbaaiq8LlNy7
+  database: api
